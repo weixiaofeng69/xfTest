@@ -1,4 +1,4 @@
-package main.cglb.reference;
+package main.reference;
 
 public class M {
     @Override

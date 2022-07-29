@@ -1,4 +1,4 @@
-package main.cglb.reference;
+package main.reference;
 
 import java.lang.ref.SoftReference;
 

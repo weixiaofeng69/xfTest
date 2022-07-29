@@ -1,4 +1,4 @@
-package main.cglb.volatiledemo;
+package main.volatiledemo;
 
 import java.util.concurrent.TimeUnit;
 
